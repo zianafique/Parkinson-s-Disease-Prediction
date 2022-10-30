@@ -15,5 +15,5 @@ A person diagnosed with Parkinson’s disease can have other symptoms that inclu
 
 ## Methodology:
 **Algorithm Used:** Support Vector Machine
-Dataset: UCI Repository Open Source Dataset
-Platform: Jupyter Notebook
+**Dataset:** UCI Repository Open Source Dataset
+**Platform:** Jupyter Notebook
