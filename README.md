@@ -13,6 +13,7 @@ A person diagnosed with Parkinson’s disease can have other symptoms that inclu
 
 4. Loss of sense of smell along with balance problems.
 
-Algorithm Used: Support Vector Machine
+## Methodology:
+**Algorithm Used:** Support Vector Machine
 Dataset: UCI Repository Open Source Dataset
 Platform: Jupyter Notebook
